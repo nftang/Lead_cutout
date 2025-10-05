@@ -32,7 +32,7 @@ Because the App does not transmit or store user data externally, exposure risk i
 
 Choices to Users
 You may decline camera/photo permissions (core numerical functionality such as open-cone backscatter factors (BSF) table lookup and interpolation remain available if lead cutout images not used). You can uninstall the App to remove all locally stored data.
-For accessibility consideration, the App provides on-screen magnification and panning with just a long-press on non-input areas.
+For accessibility consideration, the App provides on-screen magnification and panning with just a long-press on non-input areas. All image/graphics views are pinch-zoomable. Same applies to the pdf quick start guide and user menu.
 
 Third-Party Services
 The App does not integrate advertising networks, analytics services, social plugins, in-app purchase or external data processors.
