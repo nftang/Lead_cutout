@@ -39,7 +39,7 @@ Changes to This Policy
 We may update this policy for accuracy or compliance. The “Last Updated” date will be revised accordingly. Material changes (e.g., introducing data collection) will be disclosed before they take effect.
 
 Policy URL
-https://raw.githubusercontent.com/nftang/Lead_cutout/refs/heads/main/Privacy_Policy.md
+
 
 Contact
 For questions about this policy, contact: [nftang@gmail.com]
