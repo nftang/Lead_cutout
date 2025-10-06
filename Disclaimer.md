@@ -1,5 +1,7 @@
 Disclaimer for Mobile App, “Lead Cutout”
+
 Last Updated: 2025-10-06
+
 Version: 1.0.0
 
 GENERAL TERMS OF SERVICE
