@@ -1,6 +1,7 @@
 Privacy Policy for Mobile App, “Lead Cutout”
 
 Last Updated: 2025-10-05
+Version: 1.0.0
 
 Lead Cutout (“the App”) is a free research-oriented mobile application intended for use by the medical physics community to estimate lead cutout factors based on the ratio of TG-61 backscatter factors (BSF) of open cone and cutout aperture. It is strictly not for clinical use (see Disclaimer section below for details).
 
@@ -38,7 +39,7 @@ Third-Party Services
 The App does not integrate advertising networks, analytics services, social plugins, in-app purchase or external data processors.
 
 Changes to This Policy
-We may update this policy for accuracy or compliance. The “Last Updated” date will be revised accordingly. Material changes (e.g., introducing data collection) will be disclosed before they take effect.
+We may update this policy for accuracy or compliance. The “Last Updated” date and version number will be revised accordingly. Material changes (e.g., introducing data collection) will be disclosed before they take effect.
 
 Policy URL
 https://github.com/nftang/Lead_cutout/blob/main/Privacy%20Policy.md
@@ -50,6 +51,4 @@ Jurisdiction / Compliance Notes
 The App is designed to avoid collecting personal data, aligning with minimal obligations under major privacy frameworks (e.g., GDPR, CCPA). Should future versions introduce data collection, appropriate notices and consent mechanisms will be added.
 You are responsible for ensuring compliance with your institution's research and data handling policies when using the App for research and development purposes.
 
-Disclaimer
-The App is designed for research and development. You are not permitted to use it clinically and apply the calculation results for patient management or even treatment. The App author is not in any way responsible to any loss or damage, either to property or to human life should the App is used clinically without a written and signed consent from the author.
 
