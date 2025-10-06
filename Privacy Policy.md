@@ -1,6 +1,7 @@
 Privacy Policy for Mobile App, “Lead Cutout”
 
 Last Updated: 2025-10-05
+
 Version: 1.0.0
 
 Lead Cutout (“the App”) is a free research-oriented mobile application intended for use by the medical physics community to estimate lead cutout factors based on the ratio of TG-61 backscatter factors (BSF) of open cone and cutout aperture. It is strictly not for clinical use (see Disclaimer section below for details).
