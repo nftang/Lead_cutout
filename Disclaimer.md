@@ -1,0 +1,1 @@
+The App is designed for research and development. You are not permitted to use it clinically and apply the calculation results for patient management or even treatment. The App author is not in any way responsible to any loss or damage, either to property or to human life should the App is used clinically.
