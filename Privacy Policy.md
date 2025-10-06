@@ -1,6 +1,6 @@
 Privacy Policy for Mobile App, “Lead Cutout”
 
-Last Updated: 2025-10-05
+Last Updated: 2025-10-06
 
 Version: 1.0.0
 
